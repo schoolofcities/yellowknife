@@ -1,0 +1,166 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-01-12T18:19:15Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/104201649",
+        "landuse": "cemetery",
+        "source": "NRCan-CanVec-7.0"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.4062306,
+              62.4620336
+            ],
+            [
+              -114.4042815,
+              62.4630326
+            ],
+            [
+              -114.404626,
+              62.4632073
+            ],
+            [
+              -114.4039093,
+              62.4637619
+            ],
+            [
+              -114.4040492,
+              62.4639192
+            ],
+            [
+              -114.4055756,
+              62.4642519
+            ],
+            [
+              -114.4063161,
+              62.4641797
+            ],
+            [
+              -114.4077148,
+              62.4634243
+            ],
+            [
+              -114.408831,
+              62.46278
+            ],
+            [
+              -114.408012,
+              62.462496
+            ],
+            [
+              -114.4076358,
+              62.4627098
+            ],
+            [
+              -114.4070293,
+              62.4626919
+            ],
+            [
+              -114.4066073,
+              62.4625452
+            ],
+            [
+              -114.4066007,
+              62.4621844
+            ],
+            [
+              -114.4064493,
+              62.4621158
+            ],
+            [
+              -114.4062306,
+              62.4620336
+            ]
+          ]
+        ]
+      },
+      "id": "way/104201649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/328274652",
+        "heritage": "6",
+        "historic": "heritage",
+        "landuse": "cemetery",
+        "name": "Back Bay Cemetary",
+        "wikidata": "Q19876343"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.3645635,
+              62.4698427
+            ],
+            [
+              -114.3648161,
+              62.4697862
+            ],
+            [
+              -114.3650828,
+              62.4697637
+            ],
+            [
+              -114.3652585,
+              62.4697039
+            ],
+            [
+              -114.3652301,
+              62.4695788
+            ],
+            [
+              -114.3644388,
+              62.4695923
+            ],
+            [
+              -114.3645635,
+              62.4698427
+            ]
+          ]
+        ]
+      },
+      "id": "way/328274652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1202207342",
+        "barrier": "gate",
+        "source": "NRCan-CanVec-7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4064493,
+          62.4621158
+        ]
+      },
+      "id": "node/1202207342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1799736414",
+        "barrier": "gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4039093,
+          62.4637619
+        ]
+      },
+      "id": "node/1799736414"
+    }
+  ]
+}
