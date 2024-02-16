@@ -33,7 +33,7 @@ After going through the entire City of Yellowknife, the following list of 16 geo
 | natural  | scrub | Wild/Natural Space
 | natural | wetland | Water
 
-Additional water layer was downloaded from the City of Yellowknif's open data repository which indlude lakes and rivers. 
+Additional water layer was downloaded from the City of Yellowknife's open data repository which include lakes and rivers. 
 
 ## Data Analysis
 
