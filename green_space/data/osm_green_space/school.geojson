@@ -1,0 +1,1080 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-01-10T14:53:15Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/164229224",
+        "amenity": "school",
+        "grades": "0-5",
+        "name": "N J Macpherson School",
+        "operator": "Yellowknife Education District No. 1",
+        "operator:type": "public",
+        "religion": "none"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.4174886,
+              62.4388579
+            ],
+            [
+              -114.4149916,
+              62.4387786
+            ],
+            [
+              -114.4146431,
+              62.4399362
+            ],
+            [
+              -114.4166677,
+              62.4404932
+            ],
+            [
+              -114.417444,
+              62.4395963
+            ],
+            [
+              -114.4176316,
+              62.4392052
+            ],
+            [
+              -114.4176211,
+              62.4389151
+            ],
+            [
+              -114.4174886,
+              62.4388579
+            ]
+          ]
+        ]
+      },
+      "id": "way/164229224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/504383477",
+        "addr:housenumber": "5212",
+        "addr:street": "52nd Street",
+        "amenity": "school",
+        "building": "school",
+        "name": "Montessori School"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.367374,
+              62.4495149
+            ],
+            [
+              -114.3672466,
+              62.449576
+            ],
+            [
+              -114.3674764,
+              62.449679
+            ],
+            [
+              -114.3676039,
+              62.4496179
+            ],
+            [
+              -114.367374,
+              62.4495149
+            ]
+          ]
+        ]
+      },
+      "id": "way/504383477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/875859682",
+        "amenity": "school",
+        "grades": "0-12",
+        "name": "K'àlemì Dene School",
+        "operator": "Yellowknife Education District No. 1",
+        "operator:type": "public",
+        "religion": "none",
+        "source": "NRCan-CanVec-7.0"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.339015,
+              62.4730912
+            ],
+            [
+              -114.3369275,
+              62.4739921
+            ],
+            [
+              -114.33773,
+              62.4743108
+            ],
+            [
+              -114.3381661,
+              62.4746286
+            ],
+            [
+              -114.3398602,
+              62.4737988
+            ],
+            [
+              -114.3392911,
+              62.4735179
+            ],
+            [
+              -114.339493,
+              62.4733301
+            ],
+            [
+              -114.339015,
+              62.4730912
+            ]
+          ]
+        ]
+      },
+      "id": "way/875859682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/900016250",
+        "amenity": "school",
+        "denomination": "roman_catholic",
+        "grades": "8-12",
+        "name": "St. Patrick's High School",
+        "operator": "Yellowknife Catholic School Board",
+        "operator:type": "public",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.3652689,
+              62.4560151
+            ],
+            [
+              -114.3649749,
+              62.4558669
+            ],
+            [
+              -114.3653428,
+              62.4556046
+            ],
+            [
+              -114.3651297,
+              62.4554983
+            ],
+            [
+              -114.365088,
+              62.4554783
+            ],
+            [
+              -114.3640782,
+              62.4559557
+            ],
+            [
+              -114.3639646,
+              62.4559054
+            ],
+            [
+              -114.3639191,
+              62.4556234
+            ],
+            [
+              -114.3623478,
+              62.4548893
+            ],
+            [
+              -114.3623439,
+              62.4545865
+            ],
+            [
+              -114.3618523,
+              62.4546238
+            ],
+            [
+              -114.3618069,
+              62.4547736
+            ],
+            [
+              -114.3617246,
+              62.4557796
+            ],
+            [
+              -114.3617629,
+              62.4559366
+            ],
+            [
+              -114.3618879,
+              62.4560557
+            ],
+            [
+              -114.3623089,
+              62.4562587
+            ],
+            [
+              -114.3634262,
+              62.4567567
+            ],
+            [
+              -114.3639258,
+              62.4565678
+            ],
+            [
+              -114.3652689,
+              62.4560151
+            ]
+          ]
+        ]
+      },
+      "id": "way/900016250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/900016251",
+        "amenity": "school",
+        "denomination": "roman_catholic",
+        "grades": "0-8",
+        "name": "Weledeh Catholic School",
+        "operator": "Yellowknife Catholic School Board",
+        "operator:type": "public",
+        "religion": "christian",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.3640782,
+              62.4559557
+            ],
+            [
+              -114.365088,
+              62.4554783
+            ],
+            [
+              -114.3623618,
+              62.4542501
+            ],
+            [
+              -114.3622488,
+              62.4542326
+            ],
+            [
+              -114.3621445,
+              62.4542628
+            ],
+            [
+              -114.3618523,
+              62.4546238
+            ],
+            [
+              -114.3623439,
+              62.4545865
+            ],
+            [
+              -114.3623478,
+              62.4548893
+            ],
+            [
+              -114.3639191,
+              62.4556234
+            ],
+            [
+              -114.3639646,
+              62.4559054
+            ],
+            [
+              -114.3640782,
+              62.4559557
+            ]
+          ]
+        ]
+      },
+      "id": "way/900016251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/900016252",
+        "addr:city": "Yellowknife",
+        "addr:housenumber": "4701",
+        "addr:street": "52nd Avenue",
+        "amenity": "school",
+        "grades": "9-12",
+        "name": "École Sir John Franklin High School",
+        "operator": "Yellowknife Education District No. 1",
+        "operator:type": "public",
+        "religion": "none",
+        "source": "NRCan-CanVec-7.0",
+        "wheelchair": "limited",
+        "wikipedia": "en:Sir John Franklin High School"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.3601217,
+              62.4533968
+            ],
+            [
+              -114.3622239,
+              62.4537739
+            ],
+            [
+              -114.3631387,
+              62.4528734
+            ],
+            [
+              -114.3635985,
+              62.4526145
+            ],
+            [
+              -114.3639015,
+              62.4524442
+            ],
+            [
+              -114.3639652,
+              62.4524112
+            ],
+            [
+              -114.3641816,
+              62.4522891
+            ],
+            [
+              -114.3640532,
+              62.452233
+            ],
+            [
+              -114.3642002,
+              62.452161
+            ],
+            [
+              -114.3640596,
+              62.4520996
+            ],
+            [
+              -114.3644335,
+              62.4519166
+            ],
+            [
+              -114.3638006,
+              62.4516707
+            ],
+            [
+              -114.3630977,
+              62.4515189
+            ],
+            [
+              -114.3630366,
+              62.451495
+            ],
+            [
+              -114.3625111,
+              62.4512872
+            ],
+            [
+              -114.3622739,
+              62.451193
+            ],
+            [
+              -114.3622329,
+              62.4510758
+            ],
+            [
+              -114.362166,
+              62.4508032
+            ],
+            [
+              -114.3620077,
+              62.450811
+            ],
+            [
+              -114.3598956,
+              62.4518232
+            ],
+            [
+              -114.360132,
+              62.453318
+            ],
+            [
+              -114.3601217,
+              62.4533968
+            ]
+          ]
+        ]
+      },
+      "id": "way/900016252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/900016253",
+        "amenity": "school",
+        "name": "École Allain St-Cyr"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.3898773,
+              62.4411359
+            ],
+            [
+              -114.3881941,
+              62.4412968
+            ],
+            [
+              -114.3883841,
+              62.4418342
+            ],
+            [
+              -114.3889334,
+              62.4418104
+            ],
+            [
+              -114.3891008,
+              62.4423286
+            ],
+            [
+              -114.390422,
+              62.4422775
+            ],
+            [
+              -114.3898773,
+              62.4411359
+            ]
+          ]
+        ]
+      },
+      "id": "way/900016253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/900016254",
+        "addr:city": "Yellowknife",
+        "addr:housenumber": "50",
+        "addr:street": "Taylor Road",
+        "amenity": "school",
+        "grades": "6-8",
+        "name": "École William McDonald Middle School",
+        "operator": "Yellowknife Education District No. 1",
+        "operator:type": "public",
+        "phone": "+1-867-873-5814",
+        "religion": "none",
+        "source": "NRCan-CanVec-7.0",
+        "website": "http://wms.yk1.nt.ca/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.3898773,
+              62.4411359
+            ],
+            [
+              -114.390422,
+              62.4422775
+            ],
+            [
+              -114.3909013,
+              62.4425155
+            ],
+            [
+              -114.390988,
+              62.4425574
+            ],
+            [
+              -114.39158,
+              62.4428504
+            ],
+            [
+              -114.3916562,
+              62.4428724
+            ],
+            [
+              -114.3935344,
+              62.4437835
+            ],
+            [
+              -114.3940657,
+              62.4434771
+            ],
+            [
+              -114.3942619,
+              62.4433689
+            ],
+            [
+              -114.3942412,
+              62.4431996
+            ],
+            [
+              -114.3940859,
+              62.4427567
+            ],
+            [
+              -114.3936001,
+              62.44124
+            ],
+            [
+              -114.3935027,
+              62.4409556
+            ],
+            [
+              -114.3932456,
+              62.4409305
+            ],
+            [
+              -114.3898773,
+              62.4411359
+            ]
+          ]
+        ]
+      },
+      "id": "way/900016254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/900016255",
+        "amenity": "school",
+        "denomination": "roman_catholic",
+        "grades": "0-8",
+        "name": "École St Joseph School",
+        "operator": "Yellowknife Catholic School Board",
+        "operator:type": "public",
+        "religion": "christian",
+        "source": "NRCan-CanVec-7.0"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.4131292,
+              62.4433366
+            ],
+            [
+              -114.411361,
+              62.4431046
+            ],
+            [
+              -114.4111359,
+              62.4430531
+            ],
+            [
+              -114.4110857,
+              62.4430259
+            ],
+            [
+              -114.4091513,
+              62.443966
+            ],
+            [
+              -114.4097139,
+              62.4442414
+            ],
+            [
+              -114.4115293,
+              62.4447189
+            ],
+            [
+              -114.4117307,
+              62.4447072
+            ],
+            [
+              -114.4130054,
+              62.4435686
+            ],
+            [
+              -114.4131292,
+              62.4433366
+            ]
+          ]
+        ]
+      },
+      "id": "way/900016255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/900157032",
+        "amenity": "school",
+        "grades": "0-8",
+        "name": "Range Lake North School",
+        "operator": "Yellowknife Education District No. 1",
+        "operator:type": "public",
+        "religion": "none"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.4191282,
+              62.4514613
+            ],
+            [
+              -114.4191646,
+              62.4512396
+            ],
+            [
+              -114.4191342,
+              62.4509673
+            ],
+            [
+              -114.4188004,
+              62.4507091
+            ],
+            [
+              -114.4179199,
+              62.4505164
+            ],
+            [
+              -114.4182561,
+              62.4502203
+            ],
+            [
+              -114.4179513,
+              62.4501494
+            ],
+            [
+              -114.4176392,
+              62.4504549
+            ],
+            [
+              -114.4160178,
+              62.4501
+            ],
+            [
+              -114.416301,
+              62.4497518
+            ],
+            [
+              -114.4159809,
+              62.4496769
+            ],
+            [
+              -114.4156658,
+              62.4500229
+            ],
+            [
+              -114.4152742,
+              62.4499371
+            ],
+            [
+              -114.4144428,
+              62.4497968
+            ],
+            [
+              -114.414109,
+              62.4497687
+            ],
+            [
+              -114.4127579,
+              62.4499113
+            ],
+            [
+              -114.4132128,
+              62.4503599
+            ],
+            [
+              -114.414383,
+              62.4508043
+            ],
+            [
+              -114.4146989,
+              62.450959
+            ],
+            [
+              -114.4147453,
+              62.4509814
+            ],
+            [
+              -114.4148811,
+              62.4510497
+            ],
+            [
+              -114.4174834,
+              62.4522697
+            ],
+            [
+              -114.4191282,
+              62.4514613
+            ]
+          ]
+        ]
+      },
+      "id": "way/900157032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/900511570",
+        "amenity": "school",
+        "grades": "0-8",
+        "name": "Mildred Hall Elementary School",
+        "operator": "Yellowknife Education District No. 1",
+        "operator:type": "public",
+        "religion": "none"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.3786673,
+              62.4509653
+            ],
+            [
+              -114.3766047,
+              62.4519468
+            ],
+            [
+              -114.3769068,
+              62.4520816
+            ],
+            [
+              -114.3769074,
+              62.4521114
+            ],
+            [
+              -114.3769203,
+              62.4521114
+            ],
+            [
+              -114.3771642,
+              62.4521114
+            ],
+            [
+              -114.3771642,
+              62.4524073
+            ],
+            [
+              -114.3775238,
+              62.4524073
+            ],
+            [
+              -114.3775568,
+              62.4524072
+            ],
+            [
+              -114.3780342,
+              62.4526179
+            ],
+            [
+              -114.3784814,
+              62.4528148
+            ],
+            [
+              -114.3788569,
+              62.4529879
+            ],
+            [
+              -114.3810849,
+              62.4520463
+            ],
+            [
+              -114.3786673,
+              62.4509653
+            ]
+          ]
+        ]
+      },
+      "id": "way/900511570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/941605422",
+        "amenity": "school",
+        "grades": "0-9",
+        "name": "Kaw Tay Whee School",
+        "operator": "Yellowknife Education District No. 1",
+        "operator:type": "public",
+        "religion": "none",
+        "source": "NRCan-CanVec-7.0"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.3063199,
+              62.4114952
+            ],
+            [
+              -114.3059652,
+              62.4114929
+            ],
+            [
+              -114.3052916,
+              62.4115177
+            ],
+            [
+              -114.3047072,
+              62.4116619
+            ],
+            [
+              -114.3050619,
+              62.4119762
+            ],
+            [
+              -114.3059098,
+              62.4119053
+            ],
+            [
+              -114.3064147,
+              62.4118575
+            ],
+            [
+              -114.306552,
+              62.4118439
+            ],
+            [
+              -114.3064027,
+              62.4116787
+            ],
+            [
+              -114.3063518,
+              62.4115672
+            ],
+            [
+              -114.3063199,
+              62.4114952
+            ]
+          ]
+        ]
+      },
+      "id": "way/941605422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/944878169",
+        "amenity": "school",
+        "grades": "0-5",
+        "landuse": "education",
+        "name": "École Įtłʼǫ̀",
+        "old_name": "École JH Sissons",
+        "opening_date": "2022",
+        "operator": "Yellowknife Education District No. 1",
+        "operator:type": "public",
+        "religion": "none"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.3760903,
+              62.4455007
+            ],
+            [
+              -114.3758025,
+              62.4456372
+            ],
+            [
+              -114.3747329,
+              62.4470746
+            ],
+            [
+              -114.3754107,
+              62.4473315
+            ],
+            [
+              -114.3759425,
+              62.4475388
+            ],
+            [
+              -114.3764553,
+              62.4473021
+            ],
+            [
+              -114.3769111,
+              62.4474919
+            ],
+            [
+              -114.377153,
+              62.4473688
+            ],
+            [
+              -114.3775351,
+              62.4471746
+            ],
+            [
+              -114.377974,
+              62.4465957
+            ],
+            [
+              -114.3780547,
+              62.4464901
+            ],
+            [
+              -114.3774842,
+              62.4464084
+            ],
+            [
+              -114.3778274,
+              62.4459026
+            ],
+            [
+              -114.3771085,
+              62.4457957
+            ],
+            [
+              -114.376918,
+              62.4457673
+            ],
+            [
+              -114.3765463,
+              62.4456705
+            ],
+            [
+              -114.3764072,
+              62.4456188
+            ],
+            [
+              -114.3760903,
+              62.4455007
+            ]
+          ]
+        ]
+      },
+      "id": "way/944878169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1165222901",
+        "amenity": "school",
+        "indoor": "area",
+        "name": "Akaitcho Trades and Technical Centre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.3617371,
+              62.4516926
+            ],
+            [
+              -114.3610947,
+              62.4519801
+            ],
+            [
+              -114.3609892,
+              62.4519323
+            ],
+            [
+              -114.3612269,
+              62.451825
+            ],
+            [
+              -114.3611133,
+              62.4517711
+            ],
+            [
+              -114.3606971,
+              62.4519687
+            ],
+            [
+              -114.3610616,
+              62.4521441
+            ],
+            [
+              -114.3612045,
+              62.4520776
+            ],
+            [
+              -114.3613534,
+              62.4521458
+            ],
+            [
+              -114.3620474,
+              62.4518414
+            ],
+            [
+              -114.3617371,
+              62.4516926
+            ]
+          ]
+        ]
+      },
+      "id": "way/1165222901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5131254867",
+        "amenity": "school",
+        "description": "Route 51 Learning Institute is a facility designed to accommodate students from 15 to 21 years of age. This outreach school offers alternative setting to daily high school programming. It is a centre where students can enrol in, and complete, high school.",
+        "name": "Route 51 Learning Institute",
+        "operator": "YK 1 School Board",
+        "website": "https://www.yk1.nt.ca/Route%2051%20Learning%20Institute.php"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3703431,
+          62.4519569
+        ]
+      },
+      "id": "node/5131254867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8839275213",
+        "barrier": "entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3940657,
+          62.4434771
+        ]
+      },
+      "id": "node/8839275213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9036427007",
+        "barrier": "gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3639652,
+          62.4524112
+        ]
+      },
+      "id": "node/9036427007"
+    }
+  ]
+}

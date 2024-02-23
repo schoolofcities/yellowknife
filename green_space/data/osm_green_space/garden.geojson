@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-01-10T15:32:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/168759911",
+        "barrier": "fence",
+        "leisure": "garden",
+        "name": "Loraine Minish-Cooper Garden of Hope"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.3780811,
+              62.4548524
+            ],
+            [
+              -114.3777778,
+              62.454713
+            ],
+            [
+              -114.3777611,
+              62.4547216
+            ],
+            [
+              -114.3776047,
+              62.4548068
+            ],
+            [
+              -114.377882,
+              62.4549325
+            ],
+            [
+              -114.3780364,
+              62.4548703
+            ],
+            [
+              -114.3780811,
+              62.4548524
+            ]
+          ]
+        ]
+      },
+      "id": "way/168759911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/942943953",
+        "garden:type": "community",
+        "leisure": "garden"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.3362057,
+              62.4746517
+            ],
+            [
+              -114.3363925,
+              62.4745557
+            ],
+            [
+              -114.3362846,
+              62.4745109
+            ],
+            [
+              -114.3360979,
+              62.4746069
+            ],
+            [
+              -114.3362057,
+              62.4746517
+            ]
+          ]
+        ]
+      },
+      "id": "way/942943953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1074874681",
+        "garden:type": "community",
+        "leisure": "garden"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.3652605,
+              62.4595517
+            ],
+            [
+              -114.3651266,
+              62.4593118
+            ],
+            [
+              -114.3647335,
+              62.4593982
+            ],
+            [
+              -114.3648984,
+              62.4596457
+            ],
+            [
+              -114.3652605,
+              62.4595517
+            ]
+          ]
+        ]
+      },
+      "id": "way/1074874681"
+    }
+  ]
+}

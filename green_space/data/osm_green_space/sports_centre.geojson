@@ -1,0 +1,396 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-01-10T15:13:43Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/164229240",
+        "addr:housenumber": "45",
+        "addr:street": "Kam Lake Road",
+        "building": "yes",
+        "leisure": "sports_centre",
+        "name": "Field House",
+        "sport": "multi",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.4013579,
+              62.4401486
+            ],
+            [
+              -114.4004889,
+              62.4396263
+            ],
+            [
+              -114.3992929,
+              62.4400523
+            ],
+            [
+              -114.4001639,
+              62.4405753
+            ],
+            [
+              -114.4003889,
+              62.4404954
+            ],
+            [
+              -114.4005638,
+              62.4405995
+            ],
+            [
+              -114.4007666,
+              62.4405296
+            ],
+            [
+              -114.4011349,
+              62.4403966
+            ],
+            [
+              -114.4009589,
+              62.440291
+            ],
+            [
+              -114.4013579,
+              62.4401486
+            ]
+          ]
+        ]
+      },
+      "id": "way/164229240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/164229241",
+        "addr:housenumber": "41",
+        "addr:street": "Kam Lake Road",
+        "building": "yes",
+        "leisure": "sports_centre",
+        "name": "Multiplex",
+        "sport": "multi;ice_hockey;gymnastics;basketball;volleyball;speed_skating",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.3998684,
+              62.4411673
+            ],
+            [
+              -114.3984044,
+              62.4406449
+            ],
+            [
+              -114.3981343,
+              62.4408069
+            ],
+            [
+              -114.397915,
+              62.4407287
+            ],
+            [
+              -114.3976504,
+              62.4408874
+            ],
+            [
+              -114.3978655,
+              62.4409642
+            ],
+            [
+              -114.3975126,
+              62.4411759
+            ],
+            [
+              -114.398581,
+              62.441557
+            ],
+            [
+              -114.3984994,
+              62.441606
+            ],
+            [
+              -114.3988993,
+              62.4417487
+            ],
+            [
+              -114.3998684,
+              62.4411673
+            ]
+          ]
+        ]
+      },
+      "id": "way/164229241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/167654182",
+        "access": "yes",
+        "addr:housenumber": "6002",
+        "addr:street": "Franklin Avenue",
+        "building": "yes",
+        "leisure": "sports_centre",
+        "length": "25",
+        "name": "Ruth Inch Memorial Pool",
+        "sport": "swimming",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.3930255,
+              62.4467359
+            ],
+            [
+              -114.3924536,
+              62.446768
+            ],
+            [
+              -114.3924391,
+              62.4467333
+            ],
+            [
+              -114.3922514,
+              62.4467453
+            ],
+            [
+              -114.3922774,
+              62.4468362
+            ],
+            [
+              -114.3923958,
+              62.4468321
+            ],
+            [
+              -114.3924767,
+              62.4471542
+            ],
+            [
+              -114.3931469,
+              62.4471141
+            ],
+            [
+              -114.3931535,
+              62.4471461
+            ],
+            [
+              -114.3932026,
+              62.4471614
+            ],
+            [
+              -114.3932777,
+              62.4471601
+            ],
+            [
+              -114.3933123,
+              62.4471381
+            ],
+            [
+              -114.3933051,
+              62.4471107
+            ],
+            [
+              -114.3932546,
+              62.447096
+            ],
+            [
+              -114.3932141,
+              62.4469249
+            ],
+            [
+              -114.3931,
+              62.4469323
+            ],
+            [
+              -114.3930255,
+              62.4467359
+            ]
+          ]
+        ]
+      },
+      "id": "way/167654182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/527884784",
+        "description": "Outdoor Shooting Range",
+        "leisure": "sports_centre",
+        "name": "Yellowknife Shooting Club",
+        "sport": "shooting_range",
+        "website": "http://www.yellowknifeshootingclub.ca/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.4748092,
+              62.4681606
+            ],
+            [
+              -114.480989,
+              62.465899
+            ],
+            [
+              -114.4793582,
+              62.464917
+            ],
+            [
+              -114.4729424,
+              62.466881
+            ],
+            [
+              -114.4733501,
+              62.4671607
+            ],
+            [
+              -114.4748092,
+              62.4681606
+            ]
+          ]
+        ]
+      },
+      "id": "way/527884784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1029699775",
+        "addr:housenumber": "5121",
+        "addr:street": "51st Street",
+        "indoor": "area",
+        "leisure": "sports_centre",
+        "name": "Shooting Performance  Centre",
+        "operator": "Yellowknife Shooting Club",
+        "sport": "shooting_range"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.3677339,
+              62.4512389
+            ],
+            [
+              -114.3675542,
+              62.4513167
+            ],
+            [
+              -114.3678133,
+              62.4514343
+            ],
+            [
+              -114.3679866,
+              62.4513542
+            ],
+            [
+              -114.3677339,
+              62.4512389
+            ]
+          ]
+        ]
+      },
+      "id": "way/1029699775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1227674810",
+        "access": "yes",
+        "building": "yes",
+        "leisure": "sports_centre",
+        "name": "Aquatic Centre",
+        "operator": "City of Yellowknife",
+        "operator:type": "government",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.3912019,
+              62.4481305
+            ],
+            [
+              -114.3912505,
+              62.447907
+            ],
+            [
+              -114.3919454,
+              62.4474715
+            ],
+            [
+              -114.3916316,
+              62.4474335
+            ],
+            [
+              -114.390974,
+              62.4472156
+            ],
+            [
+              -114.3902725,
+              62.4476684
+            ],
+            [
+              -114.3904466,
+              62.4477261
+            ],
+            [
+              -114.3903444,
+              62.4477921
+            ],
+            [
+              -114.3907318,
+              62.4480076
+            ],
+            [
+              -114.390879,
+              62.4479509
+            ],
+            [
+              -114.3912019,
+              62.4481305
+            ]
+          ]
+        ]
+      },
+      "id": "way/1227674810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2699239668",
+        "leisure": "sports_centre",
+        "name": "Breakaway Gym",
+        "phone": "+1-867-920-4220",
+        "website": "http://breakawayfitness.ca/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3687599,
+          62.4550394
+        ]
+      },
+      "id": "node/2699239668"
+    }
+  ]
+}
