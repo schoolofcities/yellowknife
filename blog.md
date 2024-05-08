@@ -9,18 +9,17 @@ With guidance from Rebecca Alty, the Mayor of Yellowknife and School of Cities C
 
 ## Household C02 Emissions
 
-The following map shows the GHG impact in average annual C02equivilant emissions by household - i.e. how much does each household emit per year based on their energy use. We approximated this based on a combination of data sources: 1) average annual energy use by dwelling type 2) the carbon intensity of electricity in the Northwest Territories and 3) the number of dwellings by type in each neighbourhood.
+The following map shows the GHG impact in average annual C02eq emissions by household - i.e. how much does each household emit per year based on their energy use by neighbourhood, on average. We approximated this based on a combination of data sources: 1) average annual energy use by dwelling type 2) the carbon intensity of electricity in the Northwest Territories and 3) the number of dwellings by type in each neighbourhood.
 
-MAP
+![Map of GHG Emissions from household electricity use](maps/co2e-map.png)
 
-We see a clear pattern of areas closer to downtown having less of a carbon footrpint than more peripheral suburbs. This is mainly a function of dwelling type, and the fact that the larger a dwelling, the more energy is needed to heat and/or cool it, as well as the more electricity used to power appliances, lights, and other devices within the space. One way how smaller, denser housing is better for the environment.
-
+We see a clear pattern of areas closer to downtown having less of a carbon footprint than more peripheral suburbs. This is mainly a function of dwelling type, and the fact that the larger a dwelling, the more energy is needed to heat and/or cool it, as well as the more electricity used to power appliances, lights, and other devices within the space. One way how smaller, denser housing is better for the environment.
 
 ## Commuting by Car
 
 One limitation with the map above is it does not take into account transportation-related emissions. What is a households carbon footprint caused by how they travel (e.g. how often do they travel by car, how far do they go). While there is no comprehensive data on travel behaviour for most cities, Statistics Canada does collect and share at a neighbourhood level data on travel mode share for journey to work from their national census. i.e. how do people typically travel to work? by car, by public transit, by walking? Travel to work is a good barometer of overall environmental impact of personal transportation in an area. Overall, 73.5% of residents in Yellowknife who regularly travel to work, travel to work by car, either as a driver or as a passenger, but this varies quite a bit depending on the neighbourhood.
 
-MAP
+![Map of GHG Emissions from household electricity use](maps/commute-by-car.png)
 
 The patterns on this map clearly highlight how the downtown area having much lower propensity to drive compare to more suburban areas - likely because work destinations are closer and more accessible via other modes (e.g. walking). That neighbourhoods that have a mix of land-use, such as residential and employment, can lead to less distance travelled and fewer trips by car, meaning fewer emissions as well as lower potential of collisions.
 
@@ -28,6 +27,8 @@ The patterns on this map clearly highlight how the downtown area having much low
 ## Access to Nature
 
 Yellowknife is located in the rugged wilderness of Canada's Northwest Territories, and is surrounded by pristine lakes and dense forests.
+
+Generally 
 
 Further details on how we created this map are here.
 
