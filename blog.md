@@ -40,11 +40,9 @@ Overall, we find that denser, mixed use, neighbourhoods are not only better in t
 
 Outdoor public spaces, such as parks, benefit people and cities by promoting healthy physical activity, providing connection to nature, and are important spaces for social interaction. Yellowknife has a number of public parts and is also surrounded by natural lakes and terrain that provide space for outdoor activity across all seasons.
 
-However, not all residents have equal access to such spaces. To see how access varies for residential neighbourhoods across the city, we estimated a metric which quantifies how much of the land nearby is natural publicly accessible open space. 
+However, not all residents have equal access to such spaces. To see how access varies for residential neighbourhoods across the city, we estimated a metric which quantifies how much of the land nearby is natural publicly accessible open space.  
 
-This was partly subjective and difficult to quantitatively. Some things are obvious, like a city park, but what about wooded area, school yard that is only open to the public for part of the day, or an open lake that's frozen for part of the year. All of these are great amenities, but not the same level of accessibility or have the same primary function as a city park. 
-
-As such, we created two maps, the first shows access to only "designated" open spaces such as parks, playgrounds, and recreations grounds. The second map is much broader in its categorization, and estimates access to a broader range of land-uses, including blue-spaces such as nearby lakes. The data on the location of these spaces are from [OpenStreetMap](https://www.openstreetmap.org), a free editable map of the world. Further details on how we created these map are [here](https://github.com/schoolofcities/yellowknife/tree/main/green_space), including a table of all land-use classifications.
+We created two maps, the first shows access to only "designated" open spaces such as parks, playgrounds, and recreations grounds. The second map is much broader in its categorization, and estimates access to a broader range of land-uses, including blue-spaces such as nearby lakes. The data on the location of these spaces are from [OpenStreetMap](https://www.openstreetmap.org), a free editable map of the world. Further details on how we created these map are [here](https://github.com/schoolofcities/yellowknife/tree/main/green_space), including a table of all land-use classifications.
 
 ![Map of access to parks](maps/designated-green-space-map.png)
 
