@@ -44,17 +44,15 @@ As such, we created two maps, the first shows access to only "designated" open s
 ![Map of access to nature](maps/total-green-space-map.png)
 
 
-## Tax Revenue Density
+## Fiscal Productivity
 
-Great! Now let us take a look at...
-
-How productive .
+For our final map, we look at annual property tax for each parcel and divide it by its area in square metres. The result shows how productive land is across the area in providing property tax revenue for the city. Similar to the other maps, we're focusing solely on properties that are in areas zoned for residential uses. (Note that some of these areas are mixed use, and can have other uses as well, such as retail).
 
 ![Map of property tax density](maps/tax-density-map.png)
 
+There's a clear pattern of more central areas, typically those that are higher density residential or zoned for mixed uses, having greater property tax revenue per square metre. Denser, mixed use, neighbourhoods are not only better in terms of climate impacts as shown in the maps above, but they are also more economically sound.
 
-
-
+For a more in-depth analysis, we could also include how the city's budget varies over space. Generally, the more spread out dwellings are, the more budget needs to be allocated to service each dwelling on a per unit basis.
 
 
 ## Acknowledgements
