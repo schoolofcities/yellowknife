@@ -2,11 +2,11 @@
 
 Urban data analytics and map-making are key tools in our understanding and planning of urban environments. They provide us with valuable insights into various phenomena such as land use, accessibility, environmental impacts, and sustainability; and how they vary across neighbourhoods. They can be crucial when making informed decisions in urban planning and policy-making.
 
-Lots of urban research occurs in larger cities like Toronto and Montreal. Larger cities typically means more teams of data scientists, urban planners and researchers, and GIS specialists within government and at research institutions who collect data and sharing research outputs relating to urban issues, such as maps and public reports. In smaller cities, like Yellowknife, there's less research attention, but this does not mean that there isn't a need for similar work and outputs.
+Lots of urban research occurs in larger cities like Toronto and Montreal. Larger cities typically have more teams of data scientists, urban planners, and researchers within government and at research institutions who collect data and sharing research outputs relating to urban issues, such as maps and public reports. In smaller cities, like Yellowknife, there's less research attention, but this does not mean that there isn't a need for similar work and outputs.
 
-With guidance from Rebecca Alty, the Mayor of Yellowknife and School of Cities Canadian Urban Leader, we created several maps of Yellowknife each focused on different urban issues. Yellowknife is the largest community and only city in the Northwest Territories, with a population of just over 20,000 (based on the 2021 census). Each of these maps is based on publicly available data or data that most cities would likely have readily available, and the methods are reproducable in other contexts. The first two maps are about household carbon footprint, the next two on access to green space, and the fifth on tax revenue. Each map tells a specific story of the city. 
+With guidance from Rebecca Alty, the Mayor of Yellowknife and School of Cities Canadian Urban Leader, we created several maps of Yellowknife each focused on different urban issues. Yellowknife is the largest community and only city in the Northwest Territories, with a population of just over 20,000 (based on the 2021 census). Each map is designed to focus on the residentially zoned areas of the city (i.e. where people live) and is based on publicly available data or data that most cities would likely have readily available. The data and methods would be relatively easy to reproduce in other contexts. The first two maps are about household carbon footprint, the third about fiscal productivity, and the final two on access to green space.  Each map tells a specific story of the city. 
 
-Each of these maps highlights data for residential areas, i.e. where people live.
+
 
 
 ## Household C02 Emissions
