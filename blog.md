@@ -52,4 +52,4 @@ We created two maps, the first shows access to only "designated" open spaces suc
 
 ## Acknowledgements
 
-Big thank yous to Rebecca Alty for her thoughts and feedback, Teresa Lau for help on the green space map, Remus Herteg for help on the household C02 map, and Q for help on commuting map.
+Big thank yous to Rebecca Alty for her thoughts and feedback, Teresa Lau for help on the green-space maps, Remus Herteg for help on the household C02 map, and Qi-Sheng Chen for help on commuting map.
