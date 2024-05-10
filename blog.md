@@ -4,12 +4,9 @@ Urban data analytics and map-making are key tools in our understanding and plann
 
 Lots of urban research occurs in larger cities like Toronto and Montreal. Larger cities typically means more teams of data scientists, urban planners and researchers, and GIS specialists within government and at research institutions who collect data and sharing research outputs relating to urban issues, such as maps and public reports. In smaller cities, like Yellowknife, there's less research attention, but this does not mean that there isn't a need for similar work and outputs.
 
-With guidance from Rebecca Alty, the Mayor of Yellowknife and School of Cities Canadian Urban Leader, we created five maps of Yellowknife each focused on different urban issues. Yellowknife is the largest community and only city in the Northwest Territories, with a population of just over 20,000 (based on the 2021 census). Each of these maps is based on publicly available data or data that most cities would likely have readily available, and the methods are reproducable in other contexts. The first two maps are about household carbon footprint, the next two on access to green space, and the fifth on tax revenue. Each map tells a specific story of the city. 
+With guidance from Rebecca Alty, the Mayor of Yellowknife and School of Cities Canadian Urban Leader, we created several maps of Yellowknife each focused on different urban issues. Yellowknife is the largest community and only city in the Northwest Territories, with a population of just over 20,000 (based on the 2021 census). Each of these maps is based on publicly available data or data that most cities would likely have readily available, and the methods are reproducable in other contexts. The first two maps are about household carbon footprint, the next two on access to green space, and the fifth on tax revenue. Each map tells a specific story of the city. 
 
-The following shows each map and describes how it was created.
-
-// maps focused on just residential parcels- where people live // of course this is just one side, but this is what we did!
-// each of these maps as a jumping off point, further analysis on any of these topics, need more data, analysis, etc. 
+Each of these maps highlights data for residential areas, i.e. where people live.
 
 
 ## Household C02 Emissions
@@ -28,6 +25,16 @@ One limitation with the map above is it does not take into account transportatio
 
 The patterns on this map clearly highlight how the downtown area having much lower propensity to drive compare to more suburban areas - likely because work destinations are closer and more accessible via other modes (e.g. walking). Neighbourhoods that have a mix of land-use in close proximity, can lead to less distance travelled and fewer trips by car, and reductions in emissions.
 
+## Fiscal Productivity
+
+We next look at annual property tax for each parcel and divide it by its area in square metres. The map highlights how productive land is across the area in providing property tax revenue for the city. Similar to the other maps, we're focusing solely on properties that are in areas zoned for residential uses (either solely or with multiple uses).
+
+![Map of property tax density](maps/tax-density-map.png)
+
+There's a clear pattern of more central areas, typically those that are higher density residential or zoned for mixed uses, having greater property tax revenue per square metre. 
+While we don't have data for it at the moment, it is generally the case that the more spread out dwellings are, the more budget needs to be allocated to service each dwelling on a per unit basis.
+
+Overall, we find that denser, mixed use, neighbourhoods are not only better in terms of climate impacts as shown in the maps above, but they are also more economically sound. Downtown Yellowknife particularly performs very well when it comes to fiscal productivity, especially when compared to more suburban residential areas.
 
 ## Access to Parks & Nature
 
@@ -43,16 +50,6 @@ As such, we created two maps, the first shows access to only "designated" open s
 
 ![Map of access to nature](maps/total-green-space-map.png)
 
-
-## Fiscal Productivity
-
-For our final map, we look at annual property tax for each parcel and divide it by its area in square metres. The result shows how productive land is across the area in providing property tax revenue for the city. Similar to the other maps, we're focusing solely on properties that are in areas zoned for residential uses. (Note that some of these areas are mixed use, and can have other uses as well, such as retail).
-
-![Map of property tax density](maps/tax-density-map.png)
-
-There's a clear pattern of more central areas, typically those that are higher density residential or zoned for mixed uses, having greater property tax revenue per square metre. Denser, mixed use, neighbourhoods are not only better in terms of climate impacts as shown in the maps above, but they are also more economically sound.
-
-For a more in-depth analysis, we could also include how the city's budget varies over space. Generally, the more spread out dwellings are, the more budget needs to be allocated to service each dwelling on a per unit basis.
 
 
 ## Acknowledgements
