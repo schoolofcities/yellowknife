@@ -9,6 +9,7 @@ With guidance from Rebecca Alty, the Mayor of Yellowknife and School of Cities C
 The following shows each map and describes how it was created.
 
 // maps focused on just residential parcels- where people live // of course this is just one side, but this is what we did!
+// each of these maps as a jumping off point, further analysis on any of these topics, need more data, analysis, etc. 
 
 
 ## Household C02 Emissions
@@ -28,26 +29,28 @@ One limitation with the map above is it does not take into account transportatio
 The patterns on this map clearly highlight how the downtown area having much lower propensity to drive compare to more suburban areas - likely because work destinations are closer and more accessible via other modes (e.g. walking). Neighbourhoods that have a mix of land-use in close proximity, can lead to less distance travelled and fewer trips by car, and reductions in emissions.
 
 
-## Access to Nature
+## Access to Parks & Nature
 
-Outdoor public spaces, such as parks, benefit people and cities by promoting healthy physical activity, connection to nature, environmental sustainability, and are important spaces for social interaction. Yellowknife has a number of public parts and is also surrounded by natural lakes and terrain that provide space for outdoor activity across all seasons.
+Outdoor public spaces, such as parks, benefit people and cities by promoting healthy physical activity, providing connection to nature, and are important spaces for social interaction. Yellowknife has a number of public parts and is also surrounded by natural lakes and terrain that provide space for outdoor activity across all seasons.
 
-However, not all residents have equal access to such spaces. To see how access varies for residential neighbourhoods across the city, we estimated a metric which quantifies how much of the land nearby is 
+However, not all residents have equal access to such spaces. To see how access varies for residential neighbourhoods across the city, we estimated a metric which quantifies how much of the land nearby is natural publicly accessible open space. 
 
-It's partly subjective and difficult to quantitatively classify a. Some things are obvious, like a city park, but what about wooded area, school yard that is only open to the public for part of the day, or an open lake that's frozen for part of the year. All of these are great amenities, but QQQQ
+This was partly subjective and difficult to quantitatively. Some things are obvious, like a city park, but what about wooded area, school yard that is only open to the public for part of the day, or an open lake that's frozen for part of the year. All of these are great amenities, but not the same level of accessibility or have the same primary function as a city park. 
 
-The data on the location of these spaces are from [OpenStreetMap](https://www.openstreetmap.org), a free editable map of the world. Further details on how we created these map are here.
+As such, we created two maps, the first shows access to only "designated" open spaces such as parks, playgrounds, and recreations grounds. The second map is much broader in its categorization, and estimates access to a broader range of land-uses, including blue-spaces such as nearby lakes. The data on the location of these spaces are from [OpenStreetMap](https://www.openstreetmap.org), a free editable map of the world. Further details on how we created these map are [here](https://github.com/schoolofcities/yellowknife/tree/main/green_space), including a table of all land-use classifications.
 
 ![Map of access to parks](maps/designated-green-space-map.png)
 
-
-
+![Map of access to nature](maps/total-green-space-map.png)
 
 
 ## Tax Revenue Density
 
+Great! Now let us take a look at...
 
+How productive .
 
+![Map of property tax density](maps/tax-density-map.png)
 
 
 
