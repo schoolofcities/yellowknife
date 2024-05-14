@@ -9,17 +9,17 @@ With guidance from Rebecca Alty, the Mayor of Yellowknife and School of Cities C
 
 
 
-## Household C02 Emissions
+## Household CO2 Emissions
 
-The first map shows how household Greenhouse Gas (GHG) impacts vary by neighbourhood, specifically how much each household emit per year based on their electricity use by neighbourhood, on average. We estimated this based on a combination of data sources: 1) average annual energy use by dwelling type 2) the carbon intensity of electricity in the Northwest Territories and 3) the number of dwellings by type in each neighbourhood.
+The first map shows how household Greenhouse Gas (GHG) impacts vary by neighbourhood, specifically how much each household emit per year based on their electricity use by neighbourhood, on average. We estimated this based on a combination of data sources: 1) average annual energy use by dwelling type 2) the carbon intensity of electricity in the Northwest Territories in CO₂eq and 3) the number of dwellings by type in each neighbourhood. A carbon dioxide equivalent (CO₂eq) is a metric used to compare emissions from various greenhouse gases based on their global-warming potential (GWP). It converts amounts of other gases to the equivalent amount of carbon dioxide with the same GWP.
 
 ![Map of GHG Emissions from household electricity use](maps/co2e-map.png)
 
-We see a clear pattern of areas closer to downtown having less of a carbon footprint than more peripheral suburbs. This is mainly a function of dwelling type. The larger a dwelling, the more energy is needed to heat and/or cool it, as well as the more electricity used to power appliances, lights, and other devices within the space. This is one piece of evidence on how smaller, typically denser housing is better for the environment.
+The average emissions per household across all households is 1.8 tonnes of C0₂eq per year. However, the map shows a clear pattern of areas closer to downtown having less of a carbon footprint than more peripheral suburbs. This is mainly a function of dwelling type. The larger a dwelling, the more energy is needed to heat and/or cool it, as well as the more electricity used to power appliances, lights, and other devices within the space. This is one piece of evidence on how smaller, typically denser housing is better for the environment.
 
 ## Commuting by Car
 
-One limitation with the map above is it does not take into account transportation-related emissions. What is a households carbon footprint caused by how they travel on a day-to-day basis?. While there is no comprehensive data on travel behaviour for most cities, Statistics Canada does collect and share at a neighbourhood level data on travel mode share for journey to work from their national census. i.e. how do people typically travel to work? by car, by public transit, by walking? Travel to work is a good barometer of overall environmental impact of household transportation in an area. Overall, 73.5% of residents in Yellowknife who regularly travel to work, travel to work by car, either as a driver or as a passenger. But as the map shows, this varies quite a bit depending on the neighbourhood. 
+One limitation with the map above is it does not take into account transportation-related emissions. What is a households carbon footprint caused by how they travel on a day-to-day basis? While there is no comprehensive data on travel behaviour for most cities, Statistics Canada does collect and share at a neighbourhood level data on travel mode share for journey to work from their national census. i.e. how do people typically travel to work? by car, by public transit, by walking? Travel to work is a good barometer of overall environmental impact of household transportation in an area. Overall, 73.5% of residents in Yellowknife who regularly travel to work, travel to work by car, either as a driver or as a passenger. But as the map shows, this varies quite a bit depending on the neighbourhood. 
 
 ![Map of GHG Emissions from household electricity use](maps/commute-by-car.png)
 
@@ -32,13 +32,15 @@ We next look at annual property tax for each parcel and divide it by its area in
 ![Map of property tax density](maps/tax-density-map.png)
 
 There's a clear pattern of more central areas, typically those that are higher density residential or zoned for mixed uses, having greater property tax revenue per square metre. 
-While we don't have data for it at the moment, it is generally the case that the more spread out dwellings are, the more budget needs to be allocated to service each dwelling on a per unit basis.
+
+
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU. While we don't have data for it at the moment, it is generally the case that the more spread out dwellings are, the more budget needs to be allocated to service each dwelling on a per unit basis.
 
 Overall, we find that denser, mixed use, neighbourhoods are not only better in terms of climate impacts as shown in the maps above, but they are also more economically sound. Downtown Yellowknife particularly performs very well when it comes to fiscal productivity, especially when compared to more suburban residential areas.
 
 ## Access to Parks & Nature
 
-Outdoor public spaces, such as parks, benefit people and cities by promoting healthy physical activity, providing connection to nature, and are important spaces for social interaction. Yellowknife has a number of public parts and is also surrounded by natural lakes and terrain that provide space for outdoor activity across all seasons.
+Outdoor public spaces, such as parks, benefit people and cities by promoting healthy physical activity, providing connection to nature, and are important spaces for social interaction. Yellowknife has a number of public parks and is also surrounded by natural lakes and terrain that provide space for outdoor activity across all seasons.
 
 However, not all residents have equal access to such spaces. To see how access varies for residential neighbourhoods across the city, we estimated a metric which quantifies how much of the land nearby is natural publicly accessible open space.  
 
@@ -52,4 +54,4 @@ We created two maps, the first shows access to only "designated" open spaces suc
 
 ## Acknowledgements
 
-Big thank yous to Rebecca Alty for her thoughts and feedback, Teresa Lau for help on the green-space maps, Remus Herteg for help on the household C02 map, and Qi-Sheng Chen for help on commuting map.
+Big thank yous to Rebecca Alty for her thoughts and feedback, Teresa Lau for help on the green-space maps, Remus Herteg for help on the household CO2 map, and Qi-Sheng Chen for help on commuting map.
