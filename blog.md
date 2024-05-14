@@ -23,7 +23,7 @@ One limitation with the map above is it does not take into account transportatio
 
 ![Map of GHG Emissions from household electricity use](maps/commute-by-car.png)
 
-The patterns on this map clearly highlight how the downtown area having much lower propensity to drive compare to more suburban areas - likely because work destinations are closer and more accessible via other modes (e.g. walking). Neighbourhoods that have a mix of land-use in close proximity, can lead to less distance travelled and fewer trips by car, and reductions in emissions.
+The patterns on this map clearly highlight how residents in the downtown area have much lower propensity to drive compare to more suburban areas - likely because work destinations are closer and more accessible via other modes (e.g. walking). Neighbourhoods that have a mix of land-use in close proximity, can lead to less distance travelled and fewer trips by car, and reductions in emissions.
 
 ## Fiscal Productivity
 
@@ -33,8 +33,7 @@ We next look at annual property tax for each parcel and divide it by its area in
 
 There's a clear pattern of more central areas, typically those that are higher density residential or zoned for mixed uses, having greater property tax revenue per square metre. 
 
-
-UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU. While we don't have data for it at the moment, it is generally the case that the more spread out dwellings are, the more budget needs to be allocated to service each dwelling on a per unit basis.
+Although not shown in this map, it's typically the case as well that the more spread out dwellings are, the more budget needs to be allocated to service each dwelling and maintain infrastructure on a per unit basis. (e.g. resurfacing a road that has 20 dwellings fronting on it would cost practically the same as resurfacing a road of the same length with only 10 dwellings front in it).
 
 Overall, we find that denser, mixed use, neighbourhoods are not only better in terms of climate impacts as shown in the maps above, but they are also more economically sound. Downtown Yellowknife particularly performs very well when it comes to fiscal productivity, especially when compared to more suburban residential areas.
 
