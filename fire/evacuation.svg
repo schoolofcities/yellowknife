@@ -27,9 +27,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="2.9594743"
-     inkscape:cx="237.54219"
-     inkscape:cy="405.30847"
+     inkscape:zoom="1.4797372"
+     inkscape:cx="353.44115"
+     inkscape:cy="242.27276"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="0"
@@ -328,7 +328,8 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     sodipodi:insensitive="true"><image
+     sodipodi:insensitive="true"
+     style="display:inline"><image
        width="190.5"
        height="127"
        preserveAspectRatio="none"
@@ -338,7 +339,8 @@
        y="-1.4210855e-14" /></g><g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Layer 2"><rect
+     inkscape:label="Layer 2"
+     style="display:inline"><rect
        style="opacity:1;fill:#ab1368;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:13.7242;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:5;stroke-dasharray:none;stroke-opacity:1"
        id="rect5"
        width="39.05891"
